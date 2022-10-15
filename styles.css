@@ -1,0 +1,18 @@
+* {
+    border: 1px red solid;
+}
+
+.container {
+    display: grid;
+    
+    justify-items: center;
+    align-items: center;
+    
+}
+
+.grid {
+    width: 20px;
+    height: 20px;
+    text-align: center;
+}
+
